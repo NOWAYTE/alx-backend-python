@@ -4,5 +4,5 @@ import math
 """Basic annotations"""
 
 
-def floor(n: float) -> float:
+def floor(n: float) -> int:
     return math.floor(n)
